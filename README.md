@@ -9,4 +9,10 @@ Automatic installation is key feature.
 Me as admin I don't want to go and install or manually configure it for every single machine I have.
 - Easily configurable (only URL?) which can live within registers as well.
 
-### some useful links
+## some useful links
+Because lack of documentation and examples or hands on from Micro$oft I share what I googled and consider useful:
+- Few tips by [Alun Jones](http://msmvps.com/blogs/alunj/archive/2011/02/21/1788561.aspx)
+- [Article iven with some code](http://blog.leetsys.com/2012/01/02/capturing-windows-7-credentials-at-logon-using-custom-credential-provider/)
+how to write wrapped CP.
+- [yubicoCP](https://github.com/Yubico/yubico-windows-auth)
+- [Another wrapped CP provider](https://github.com/greylon/automatic-intranet-login/) project sample
