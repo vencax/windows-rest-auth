@@ -17,3 +17,4 @@ how to write wrapped CP.
 - [yubicoCP](https://github.com/Yubico/yubico-windows-auth)
 - [Another wrapped CP provider](https://github.com/greylon/automatic-intranet-login/) project sample
 - [Visual Studio 2012 Express for Windows Desktop](http://www.microsoft.com/en-us/download/details.aspx?id=34673) for actual devel.
+- [SDK version list](https://developer.mozilla.org/en-US/docs/Windows_SDK_versions#Windows_7_SDK)
