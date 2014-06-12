@@ -1,6 +1,6 @@
 # windows-rest-auth
 
-Inspired by [PGina](https://github.com/pgina/pgina/) and its more radical [fork by MutonUfoAI](https://github.com/MutonUfoAI/pgina) I was gradually telling myself why such complex way? I would like a CredentialProvider (CP) that sends a http request and gets JSON response with all the necessary info it needs. 
+Inspired by [PGina](https://github.com/pgina/pgina/) and its more radical [fork by MutonUfoAI](https://github.com/MutonUfoAI/pgina) I was gradually telling myself why such complex way? I would like a CredentialProvider (CP) that sends a http request and gets JSON response with all the necessary info it needs. Feel free to raise an issue if you have something to say about this idea, or write into [PGina forum here](https://groups.google.com/forum/#!topic/pgina-devel/Au-EoexgdEg)
 
 ## Pros
 - Simplicity. No complex other languages binding, database support, plugins, etc.
